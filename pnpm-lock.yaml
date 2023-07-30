@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+devDependencies:
+  '@types/maxmsp':
+    specifier: ^1.0.0
+    version: 1.0.0
+
+packages:
+
+  /@types/maxmsp@1.0.0:
+    resolution: {integrity: sha512-lgx/OBC7M8LBIYxGlak/zqvsVnqBLW3xlxEZC0CCZmYdPpB14Cl1zUIJ0FD5N2jY8ICN6fhU2jnIVtOKeWPB6g==}
+    dev: true
